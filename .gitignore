@@ -3,12 +3,9 @@
 .vs
 .idea
 
-# .NET
+# C# ignore directorys
 **/obj/
 **/bin/
-
-# Go
-
 
 # Token Secret
 **/.env
