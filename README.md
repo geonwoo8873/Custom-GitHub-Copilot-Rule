@@ -1,4 +1,4 @@
-# Custom-GitHub-Copilot-Rule
+# Custom-GitHub-Template
 
 > [!NOTE]
 > 이 템플릿은 현재 사용중인 IDE내에서 코파일럿의 무분별한 토큰값을 학습 방지와 로컬 통해서 코드 제안 및 채팅에 대한 데이터 저장을 방지하여 다음과 같이 커스터마이즈 룰을 적용하는 계획입니다.
