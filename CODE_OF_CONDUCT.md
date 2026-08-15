@@ -2,3 +2,5 @@
 
 > [!NOTE]
 > **`CODE_OF_CONDUCT`는 건강한 커뮤니티 형성을 목표로 사용자간 행동 표준 방침을 결정하여 작성하는 문서입니다. 이는 의도치 않은 문제를 제외한 어떠한 사유로 악의적인 의도를 행하여서는 안됩니다. 또한 사용자간 존중을 표시하여, 더 나은 개발 문화를 기여하는데 목표를 합니다.**
+> 
+> **`CODE_OF_CONDUCT` is a document established to define standard behavioral guidelines among users with the goal of fostering a healthy community. Malicious intent must not be exercised for any reason, except for unintended consequences. Furthermore, it aims to contribute to a better development culture by demonstrating respect among users.**
