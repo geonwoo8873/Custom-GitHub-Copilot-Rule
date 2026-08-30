@@ -3,8 +3,6 @@
 > [!IMPORTANT]
 > **`CODE_OF_CONDUCT` is a document established to determine standards of conduct among users with the goal of building a healthy community. This aims to prevent unintended problems and ensures that no malicious intent is exercised for any reason. It also aims to contribute to a better development culture by demonstrating respect among users. Furthermore, it specifies that the community standards of conduct cite the Contributor Pledge 3.0 Code of Conduct from the [Contributor Covenant](https://www.contributor-covenant.org/ko/version/3/0/code_of_conduct/).**  
 
-# Contributor Covenant 3.0 Code of Conduct
-
 ## Our Pledge
 
 We pledge to make our community welcoming, safe, and equitable for all.
