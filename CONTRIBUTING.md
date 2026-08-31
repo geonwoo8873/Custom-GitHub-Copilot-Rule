@@ -26,10 +26,10 @@ This is a **template repository** designed to serve as a foundation for new proj
 ### 3. Getting Started
 
 1. **Fork and clone** this repository
-   ```bash
-   git clone https://github.com/your-username/custom-repo-template.git
-   cd custom-repo-template
-   ```
+```bash
+git clone https://github.com/your-username/custom-repo-template.git
+cd custom-repo-template
+```
 
 1. **Create a feature branch** with a descriptive name
 
