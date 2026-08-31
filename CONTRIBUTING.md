@@ -31,15 +31,15 @@ git clone https://github.com/your-username/custom-repo-template.git
 cd custom-repo-template
 ```
 
-1. **Create a feature branch** with a descriptive name
+2. **Create a feature branch** with a descriptive name
 
 ```bash
 git checkout -b feature/improve-github-actions
 ```
 
-2. **Make your changes** – keep them focused and well-tested
+3. **Make your changes** – keep them focused and well-tested
 
-3. **Test your changes** locally
+4. **Test your changes** locally
 
    - Verify the template structure is sound
   
@@ -47,13 +47,13 @@ git checkout -b feature/improve-github-actions
   
    - Ensure documentation is clear and accurate
 
-4. **Commit with a clear message**
+5. **Commit with a clear message**
 
 ```bash
 git commit -m "feat: add pre-commit configuration for consistent linting"
 ```
 
-5. **Push and open a pull request**
+6. **Push and open a pull request**
 
 ```bash
 git push origin feature/improve-github-actions
