@@ -34,7 +34,7 @@
 ### 4. Vulnerability Reporting
 취약점 제보는 공개 이슈가 아닌 비공개 채널로 전달해 주세요.
 
-- Contact: `security@example.com`
+- Contact: ``
 - Expected response time: 영업일 기준 3일 이내 1차 회신
 - 제보 시 포함 권장 사항:
   - 영향 받는 버전/환경
