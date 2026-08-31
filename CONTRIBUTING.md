@@ -41,11 +41,11 @@ git checkout -b feature/improve-github-actions
 
 3. **Test your changes** locally
 
-  - Verify the template structure is sound
+   - Verify the template structure is sound
   
-  - Test any scripts or configurations you modified
+   - Test any scripts or configurations you modified
   
-  - Ensure documentation is clear and accurate
+   - Ensure documentation is clear and accurate
 
 4. **Commit with a clear message**
 
