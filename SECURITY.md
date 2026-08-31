@@ -34,7 +34,7 @@ The following versions are currently supported with security updates.
 ### 4. Reporting a Vulnerability
 Please report vulnerabilities through a private channel, not through public issues.
 
-- Contact: `security@example.com`
+- Contact: ``
 - Initial response target: within 3 business days
 - Please include:
   - Affected version(s) and environment
