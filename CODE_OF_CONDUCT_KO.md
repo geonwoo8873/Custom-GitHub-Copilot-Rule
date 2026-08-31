@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > * **`CODE_OF_CONDUCT`는 건강한 커뮤니티 형성을 목표로 사용자간 행동 표준 방침을 결정하여 작성하는 문서입니다. 이는 의도치 않은 문제를 방지하고 어떠한 사유로 악의적인 의도를 행하여서는 안됩니다. 또한 사용자간 존중을 표시하여, 더 나은 개발 문화를 기여하는데 목표를 합니다. 지침에 대한 커뮤니티 행동 표준은 [기여자 코버넌트](https://www.contributor-covenant.org/ko/version/3/0/code_of_conduct/)의 기여자 서약 3.0 행동 강령을 인용하였음을 명시합니다.**
-> * **커뮤니티 행동 표준 지침에 대한 원문은 [CODE_OF_CONDUCT.md](https://github.com/geonwoo8873/custom-repo-template/blob/main/CODE_OF_CONDUCT.md)에서 확인하시면 됩니다.**
+> * **해당 내용은 한국어 버전의 커뮤니티 행동 표준 지침으로 원문 확인은 [CODE_OF_CONDUCT.md](https://github.com/geonwoo8873/custom-repo-template/blob/main/CODE_OF_CONDUCT.md)에서 확인하시면 됩니다.**
 
 ## 1. 서약
 
